@@ -1,0 +1,1 @@
+{"status":"error","error":"ModuleParseError","message":"Module parse failed: C:\\Users\\julia\\ReactToDoList\\node_modules\\.bin\\webpack Unexpected character '#' (1:0)\nYou may need an appropriate loader to handle this file type.\n| #!/bin/sh\n| basedir=$(dirname \"$(echo \"$0\" | sed -e 's,\\\\,/,g')\")\n| "}

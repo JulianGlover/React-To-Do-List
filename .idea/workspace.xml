@@ -25,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/ReactToDoList/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="944">
-              <caret line="137" column="0" lean-forward="true" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+              <caret line="137" column="0" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -766,7 +766,7 @@
     <entry file="file://$PROJECT_DIR$/ReactToDoList/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="944">
-          <caret line="137" column="0" lean-forward="true" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+          <caret line="137" column="0" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
           <folding />
         </state>
       </provider>

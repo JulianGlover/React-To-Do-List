@@ -133,8 +133,3 @@ USE_TZ = True
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 STATIC_URL = '/static/'
 
-try:
-    from production_settings import *
-except ImportError as e:
-    pass
-

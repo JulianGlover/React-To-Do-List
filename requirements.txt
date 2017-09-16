@@ -12,7 +12,6 @@ parsedatetime==1.4
 pbr==3.0.0
 psutil==3.4.2
 pyasn1==0.1.9
-PyICU==1.9.2
 pyOpenSSL==0.15.1
 pyRFC3339==1.0
 pytz==2014.10

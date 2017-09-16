@@ -4,7 +4,6 @@ configobj==5.0.6
 cryptography==1.2.3
 Django==1.11.5
 django-webpack-loader==0.5.0
-enum34==1.1.2
 funcsigs==0.4
 gyp==0.1
 idna==2.0

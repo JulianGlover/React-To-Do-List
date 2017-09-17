@@ -45,7 +45,7 @@ class ToDoList extends React.Component {
 
     removeItem(item){
         this.setState({
-        listItems: this.state.listItems.filter(el => el!== item)
+        listItems: this.state.listItems.filter( currentListItem => currentListItem !== item)
          });
     }
 

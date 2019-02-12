@@ -2,7 +2,7 @@ chardet==2.3.0
 ConfigArgParse==0.10.0
 configobj==5.0.6
 cryptography==1.2.3
-Django==1.11.5
+Django==2.0.1
 django-webpack-loader==0.5.0
 funcsigs==0.4
 gunicorn==19.6.0
